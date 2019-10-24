@@ -1,12 +1,14 @@
 ---
 
 layout: col-sidebar
-title: OWASP [GROUPNAME]
+title: OWASP SecurityRAT
 tags: example-tag
-level: 4
+level: 2
 type: tool
 
 ---
+
+This will be the SecurityRAT project page. 
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
