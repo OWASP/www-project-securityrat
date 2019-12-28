@@ -1,3 +1,4 @@
 ### Leaders
 
-* [Daniel Kefer](mailto://)
+* [Daniel Kefer](mailto:)
+* [RenÃ© Reuter](mailto:)
