@@ -5,6 +5,9 @@
 ### Documentation
 * [securityrat.github.io](https://securityrat.github.io/)
 
+### Community
+* [Slack](https://owasp.slack.com/archives/C76U4TNFJ)
+
 ### Code Repository
 * [GitHub](https://github.com/SecurityRAT/SecurityRAT)
 
