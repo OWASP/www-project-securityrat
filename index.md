@@ -8,7 +8,9 @@ type: tool
 
 ---
 
-Tool mission: Simplify security requirement management during development using automation approaches.
+## Tool mission 
+
+Simplify security requirement management during development using automation approaches.
 
 ## Description
 The core functionality of SecurityRAT ("Requirement Automation Tool") can be described in the following steps:
@@ -19,4 +21,4 @@ The core functionality of SecurityRAT ("Requirement Automation Tool") can be des
 4. You persist the the artifact state in an issue tracker and create tickets for the requirements where an explicit action is necessary
 5. Throughout the continuous development of the particular artifact, you respect the rules defined in SecurityRAT and document relevant changes in requirement compliance whenever appropriate.
 
-Focus of SecurityRAT is put on automation rather then the requirements. We provide a set of requirements which you can start with, nevertheless we recommended to create your own set of requirements which fits your company risk profile.
+Focus of SecurityRAT is put on automation rather then the requirements. While we offer ASVS as an initial set of requirements which you can start with, we strongly recommended to create your own set of requirements which fits your company risk profile.
