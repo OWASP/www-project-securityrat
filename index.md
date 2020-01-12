@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP SecurityRAT
-tags: securityrat requirements sdlc
+tags:
 level: 2
 type: tool
 
