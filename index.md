@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP SecurityRAT
-tags:
+tags: securityrat
 project: true
 level: 2
 type: tool
@@ -14,7 +14,7 @@ pitch: OWASP SecurityRAT is a tool used by development teams, helping them maste
 Simplify security requirement management during development using automation approaches.
 
 ## Description
-The core functionality of SecurityRAT ("Requirement Automation Tool") can be described in the following steps:
+The core functionality of SecurityRAT ("**Security** **R**equirement **A**utomation **T**ool") can be described in the following steps:
 
 1. You tell SecurityRAT what kind of a software artifact you're going to develop / are running
 2. SecurityRAT tells you which requirements you should fulfill.
