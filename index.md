@@ -3,9 +3,10 @@
 layout: col-sidebar
 title: OWASP SecurityRAT
 tags:
+project: true
 level: 2
 type: tool
-
+pitch: OWASP SecurityRAT is a tool used by development teams, helping them master security requirements during development. 
 ---
 
 ## Tool mission 
