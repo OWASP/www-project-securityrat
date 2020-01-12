@@ -6,11 +6,6 @@ tags: securityrat requirements sdlc
 level: 0
 type: tool
 
-auto-migrated: 1
-auto-migrated: 1
-
-auto-migrated: 1
-
 ---
 
 Tool mission: Simplify security requirement management during development using automation approaches.
