@@ -5,6 +5,12 @@
 ### Documentation
 * [securityrat.github.io](https://securityrat.github.io/)
 
+### Online Demo OWASP SecurityRAT
+
+- [OWASP SecurityRAT Online Demo](https://securityrat.org/ "OWASP SecurityRAT Online Demo")
+- username: demo
+- password: SecurityRATdemo10!
+
 ### Community
 * [Slack](https://owasp.slack.com/archives/C76U4TNFJ)
 
