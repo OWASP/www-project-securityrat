@@ -8,6 +8,10 @@ level: 2
 type: tool
 pitch: OWASP SecurityRAT is a tool used by development teams, helping them master security requirements during development. 
 ---
+## Project status details
+![Build Travis CI Master](https://travis-ci.org/SecurityRAT/SecurityRAT.svg?branch=master)
+[![Join the chat at https://owasp.slack.com/archives/C76U4TNFJ](https://img.shields.io/badge/chat-on%20slack-blueviolet)](https://owasp.slack.com/archives/C76U4TNFJ)
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator%20project-orange.svg)](https://owasp.org/www-project-securityrat/)
 
 ## Tool mission 
 
