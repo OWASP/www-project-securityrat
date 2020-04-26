@@ -23,3 +23,12 @@ The core functionality of SecurityRAT ("**Security** **R**equirement **A**utomat
 5. Throughout the continuous development of the particular artifact, you respect the rules defined in SecurityRAT and document relevant changes in requirement compliance whenever appropriate.
 
 Focus of SecurityRAT is put on automation rather then the requirements. While we offer ASVS as an initial set of requirements which you can start with, we strongly recommended to create your own set of requirements which fits your company risk profile.
+
+## Demo
+You can try out SecurityRAT at https://securityrat.org
+
+**Username:** demo
+
+**Pasword:** SecurityRATdemo10!
+
+You can also play around with changing the requirements, the database is reset every 24 hours.
