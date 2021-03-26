@@ -6,3 +6,4 @@
 ### Contributors
 
 * [Jay Mbolda](https://github.com/rylyade1)
+* [Luis Felger](https://github.com/0x33C0)
