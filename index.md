@@ -8,16 +8,17 @@ level: 2
 type: tool
 pitch: OWASP SecurityRAT is a tool used by development teams, helping them master security requirements during development. 
 ---
-## Project status details
-![Build Travis CI Master](https://travis-ci.org/SecurityRAT/SecurityRAT.svg?branch=master)
-[![Join the chat at https://owasp.slack.com/archives/C76U4TNFJ](https://img.shields.io/badge/chat-on%20slack-blueviolet)](https://owasp.slack.com/archives/C76U4TNFJ)
-[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator%20project-orange.svg)](https://owasp.org/www-project-securityrat/)
 
-## Tool mission 
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator%20project-orange.svg)](https://owasp.org/www-project-securityrat/)
+[![Stars](https://img.shields.io/github/stars/SecurityRAT/SecurityRAT.svg)](https://github.com/SecurityRAT/SecurityRAT/stargazers)
+[![Release](https://img.shields.io/github/v/release/SecurityRAT/SecurityRAT.svg)](https://github.com/SecurityRAT/SecurityRAT/releases)
+
+## Tool mission
 
 Simplify security requirement management during development using automation approaches.
 
 ## Description
+
 The core functionality of SecurityRAT ("**Security** **R**equirement **A**utomation **T**ool") can be described in the following steps:
 
 1. You tell SecurityRAT what kind of a software artifact you're going to develop / are running
@@ -29,6 +30,7 @@ The core functionality of SecurityRAT ("**Security** **R**equirement **A**utomat
 Focus of SecurityRAT is put on automation rather then the requirements. While we offer ASVS as an initial set of requirements which you can start with, we strongly recommended to create your own set of requirements which fits your company risk profile.
 
 ## Demo
+
 You can try out SecurityRAT at [https://securityrat.org](https://securityrat.org)
 
 **Username:** demo
