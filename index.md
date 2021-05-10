@@ -9,8 +9,6 @@ type: tool
 pitch: OWASP SecurityRAT is a tool used by development teams, helping them master security requirements during development. 
 ---
 
-[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator%20project-orange.svg)](https://owasp.org/www-project-securityrat/)
-[![Stars](https://img.shields.io/github/stars/SecurityRAT/SecurityRAT.svg)](https://github.com/SecurityRAT/SecurityRAT/stargazers)
 [![Release](https://img.shields.io/github/v/release/SecurityRAT/SecurityRAT.svg)](https://github.com/SecurityRAT/SecurityRAT/releases)
 
 ## Tool mission
