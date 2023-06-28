@@ -1,1 +1,1 @@
-Github repo for OWASP project SecurityRAT
+Github repo for OWASP project page for SecurityRAT
