@@ -1,0 +1,56 @@
+audience:
+  - builder
+  - defender
+community:
+  - name: project-securityrat
+    platform: slack
+    url: https://owasp.slack.com/archives/C76U4TNFJ
+    description: OWASP SecurityRAT public channel
+leaders:
+  - name: Daniel Kefer
+    email: dan.kefer@gmail.com
+    github: dkefer
+  - name: René Reuter
+    email: reuter.rene@gmail.com
+    github: AresSec
+level: 2
+license:
+  - Apache-2.0
+name: OWASP SecurityRAT
+pitch: OWASP SecurityRAT is a tool used by development teams, helping them master security requirements during development.
+repositories:
+  - name: www-project-securityrat
+    url: https://github.com/OWASP/www-project-securityrat
+  - name: case-management
+    url: https://github.com/SecurityRAT/case-management
+    description: SecurityRAT v2.x - Case Management microservice
+  - name: gateway
+    url: https://github.com/SecurityRAT/gateway
+    description: SecurityRAT v2.x - Gateway component
+  - name: requirement-management
+    url: https://github.com/SecurityRAT/requirement-management
+    description: SecurityRAT v2.x - Requirement Management microservice
+  - name: Security-Requirements
+    url: https://github.com/SecurityRAT/Security-Requirements
+    description: Initial set of security requirements provided as a MySQL dump.
+  - name: SecurityCAT-PoC
+    url: https://github.com/SecurityRAT/SecurityCAT-PoC
+    description: PoC implementation of SecurityCAT
+  - name: SecurityRAT
+    url: https://github.com/SecurityRAT/SecurityRAT
+    description: OWASP SecurityRAT (version 1.x) - Tool for handling security requirements in development
+  - name: SecurityRAT-dockercompose
+    url: https://github.com/SecurityRAT/SecurityRAT-dockercompose
+    description: Provide a docker compose file for SecurityRAT (version 1.x)
+  - name: securityrat.github.io
+    url: https://github.com/SecurityRAT/securityrat.github.io
+    description: Documentation for the SecurityRAT project
+  - name: SecurityRATv2-dockercompose
+    url: https://github.com/SecurityRAT/SecurityRATv2-dockercompose
+    description: 'Docker compose structure for SecurityRAT v2 '
+tags:
+  - securityrat
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-securityrat
